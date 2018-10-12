@@ -29,12 +29,12 @@
   </dependencies>
    <distributionManagement>
     <snapshotRepository>
-      <id>Snapshots</id>
-      <url>localhost:8081/nexus/content/repositories/snapshots/</url>
+      <id>SS</id>
+      <url>http://localhost:8081/nexus/content/repositories/SS/</url>
     </snapshotRepository>
     <repository>
-      <id>Snapshots</id>
-      <url>//localhost:8081/nexus/content/repositories/snapshots/</url>
+      <id></id>
+      <url>http://localhost:8081/nexus/content/repositories/Ravi/</url>
     </repository>
   </distributionManagement>
   <build>
