@@ -33,7 +33,7 @@
       <url>http://localhost:8081/nexus/content/repositories/SS/</url>
     </snapshotRepository>
     <repository>
-      <id></id>
+      <id>Ravi</id>
       <url>http://localhost:8081/nexus/content/repositories/Ravi/</url>
     </repository>
   </distributionManagement>
