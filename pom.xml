@@ -30,11 +30,11 @@
    <distributionManagement>
     <snapshotRepository>
       <id>Snapshots</id>
-      <url>13.232.157.51:8081/nexus/content/repositories/snapshots/</url>
+      <url>13.233.111.150:8081/nexus/content/repositories/snapshots/</url>
     </snapshotRepository>
     <repository>
       <id>Snapshots</id>
-      <url>13.232.157.51:8081/nexus/content/repositories/snapshots/</url>
+      <url>13.233.111.150:8081/nexus/content/repositories/snapshots/</url>
     </repository>
   </distributionManagement>
   <build>
